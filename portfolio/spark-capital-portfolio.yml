@@ -1,0 +1,513 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.sparkcapital.com/companies
+summary:
+  portfolio_total: 48
+  in_network: 23
+  api_providers: 16
+  missing: 25
+  stubs_created: 0
+companies:
+- name: Twitter/X
+  url: https://x.com
+  description: Social networking and public conversation platform.
+  sector: social
+  stage: growth
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: twitter-x
+- name: Slack
+  url: https://slack.com
+  description: Team messaging and collaboration platform.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  slug: slack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building frontier large language models.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Discord
+  url: https://discord.com
+  description: Voice, video and text chat platform for communities.
+  sector: consumer-social
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: discord
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Oculus
+  url: https://www.oculus.com
+  description: Virtual reality headset hardware and platform.
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oculus
+- name: Cruise
+  url: https://www.getcruise.com
+  description: Autonomous vehicle technology company.
+  sector: automotive
+  stage: growth
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cruise
+- name: Coinbase
+  url: https://www.coinbase.com
+  description: Cryptocurrency exchange and financial infrastructure.
+  sector: crypto
+  stage: growth
+  status: ipo
+  source: https://www.sparkcapital.com/companies
+  slug: coinbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kalshi
+  url: https://www.kalshi.com
+  description: Regulated event and prediction markets exchange.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: kalshi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Scale AI
+  url: https://scale.com
+  description: Data labeling and infrastructure platform for AI.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: scale-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tumblr
+  url: https://www.tumblr.com
+  description: Microblogging and social media platform.
+  sector: consumer-social
+  stage: growth
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  slug: tumblr
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sesame
+  url: https://www.sesame.com
+  description: Conversational voice AI and hardware company.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sesame
+- name: CTRL-labs
+  url: https://www.ctrl-labs.com
+  description: Neural interface wearable technology.
+  sector: hardware
+  stage: series-b
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ctrl-labs
+- name: Ramp
+  url: https://www.ramp.com
+  description: Corporate cards and spend management platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: ramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Niantic
+  url: https://nianticlabs.com
+  description: Augmented reality gaming and mapping company.
+  sector: gaming
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: niantic
+- name: MatX
+  url: https://matx.com
+  description: AI accelerator chips for large language models.
+  sector: semiconductors
+  stage: series-a
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: matx
+- name: Antithesis
+  url: https://antithesis.com
+  description: Autonomous software testing and reliability platform.
+  sector: developer-tools
+  stage: series-a
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: antithesis
+- name: Lightmatter
+  url: https://lightmatter.co
+  description: Photonic computing hardware for AI workloads.
+  sector: semiconductors
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: lightmatter
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Deel
+  url: https://www.letsdeel.com
+  description: Global payroll and compliance for remote teams.
+  sector: future-of-work
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: deel-com
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Baseten
+  url: https://www.baseten.co
+  description: Infrastructure for deploying and serving ML models.
+  sector: ai-infrastructure
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: baseten
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Parallel
+  url: https://parallel.ai
+  description: AI web research and agent infrastructure.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: parallel
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Standard Intelligence
+  url: https://si.inc
+  description: AI research lab.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-intelligence
+- name: Snap
+  url: https://www.snapchat.com
+  description: Camera and social communication platform.
+  sector: consumer-social
+  stage: growth
+  status: ipo
+  source: https://www.sparkcapital.com/companies
+  slug: snapchat
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Plaid
+  url: https://plaid.com
+  description: Financial data connectivity and infrastructure API.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: plaid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Chainguard
+  url: https://www.chainguard.dev
+  description: Secure software supply chain and container images.
+  sector: security
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: chainguard
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Zeromatter
+  url: https://zeromatter.com
+  description: Frontier technology company.
+  sector: deep-tech
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zeromatter
+- name: Affirm
+  url: https://www.affirm.com
+  description: Buy-now-pay-later consumer financing platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://www.sparkcapital.com/companies
+  slug: affirm
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mercury
+  url: https://mercury.com
+  description: Banking and financial stack for startups.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: mercury
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Abridge
+  url: https://www.abridge.com
+  description: AI clinical documentation for healthcare.
+  sector: healthcare
+  stage: series-d
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: abridge
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Optimism
+  url: https://www.optimism.io
+  description: Ethereum layer-2 scaling protocol and ecosystem.
+  sector: crypto
+  stage: series-b
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: optimism
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stoke Space
+  url: https://www.stokespace.com
+  description: Fully reusable rocket and launch company.
+  sector: aerospace
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stoke-space
+- name: The Bot Company
+  url: https://www.bot.co
+  description: Consumer home robotics company.
+  sector: robotics
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-bot-company
+- name: Flock Safety
+  url: https://www.flocksafety.com
+  description: Public safety cameras and crime-detection technology.
+  sector: hardware
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flock-safety
+- name: Crusoe
+  url: https://www.crusoe.ai
+  description: AI cloud and data center infrastructure powered by clean energy.
+  sector: ai-infrastructure
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: crusoe-energy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Edison Scientific
+  url: https://edisonscientific.com
+  description: AI for scientific discovery.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: edison-scientific
+- name: Benchling
+  url: https://www.benchling.com
+  description: R&D cloud software for life sciences.
+  sector: life-sciences
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: benchling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wildtype
+  url: https://www.wildtypefoods.com
+  description: Cell-cultivated seafood company.
+  sector: biotech
+  stage: series-b
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wildtype
+- name: Lumafield
+  url: https://www.lumafield.com
+  description: Accessible industrial CT scanning for engineers.
+  sector: hardware
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lumafield
+- name: Enfabrica
+  url: https://enfabrica.net
+  description: Networking silicon for AI and accelerated computing.
+  sector: semiconductors
+  stage: series-c
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enfabrica
+- name: Base Power
+  url: https://www.basepowercompany.com
+  description: Residential battery and distributed energy utility.
+  sector: energy
+  stage: series-b
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: base-power
+- name: Generalist AI
+  url: https://generalistai.com
+  description: Foundation models for robotics.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: generalist-ai
+- name: Handshake
+  url: https://www.joinhandshake.com
+  description: Early-career recruiting and talent network.
+  sector: future-of-work
+  stage: growth
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handshake
+- name: Adept
+  url: https://www.adept.ai
+  description: AI models for agents that take actions.
+  sector: ai
+  stage: series-b
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  slug: adept
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Profluent
+  url: https://www.profluent.bio
+  description: AI-designed proteins and gene editors.
+  sector: biotech
+  stage: series-a
+  status: active
+  source: https://www.sparkcapital.com/companies
+  slug: profluent-bio
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Formation Bio
+  url: https://www.trialspark.com
+  description: AI-native drug development company.
+  sector: healthcare
+  stage: series-d
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: formation-bio
+- name: Inversion
+  url: https://www.inversionspace.com
+  description: Reentry vehicles and space logistics.
+  sector: aerospace
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inversion
+- name: Airspace Intelligence
+  url: https://www.airspace-intelligence.com
+  description: AI decision systems for aviation and logistics.
+  sector: ai
+  stage: series-a
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: airspace-intelligence
+- name: Mirror
+  url: https://www.mirror.co
+  description: Connected home fitness hardware.
+  sector: consumer
+  stage: series-b
+  status: acquired
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mirror
+- name: Latent
+  url: https://latenthealth.com
+  description: AI infrastructure for healthcare.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.sparkcapital.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: latent

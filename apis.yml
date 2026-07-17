@@ -1,0 +1,81 @@
+aid: spark-capital
+name: Spark Capital
+description: >-
+  Spark Capital is a multi-stage venture capital firm founded in 2005 by Paul Conway, Santo Politi,
+  Todd Dagres, and Bijan Sabet, with offices in San Francisco, New York, and Boston. Spark is a
+  generalist firm that partners with founders from seed through growth across consumer internet,
+  enterprise software, artificial intelligence, gaming, crypto, fintech, infrastructure, hardware and
+  semiconductors, life sciences, aerospace, and the future of work. The firm invests from a family of
+  early-stage funds (most recently a $700M fund in 2024) and dedicated growth funds (most recently a
+  $1.4B fund in 2024), and press reports have placed its assets under management in the range of
+  $12-15 billion. Spark first became widely known for leading Twitter's Series B in 2008 and has since
+  backed a run of defining companies including Slack, Discord, Snap, Coinbase, Affirm, Plaid, Cruise,
+  Oculus, Scale AI, Ramp, Deel, and Anthropic, whose Series C investment the firm turned into one of
+  venture's largest recent markups. Spark rebranded in 2020 with design studio Pentagram around its
+  distinctive dog-themed identity, and publishes a curated set of portfolio companies rather than a
+  full list.
+image: https://www.sparkcapital.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Series B
+  - Growth Equity
+  - Artificial Intelligence
+  - Fintech
+  - Crypto
+  - Consumer Internet
+  - Enterprise Software
+  - Infrastructure
+  - Semiconductors
+  - San Francisco
+  - Boston
+  - New York
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.sparkcapital.com/
+  - type: Portfolio
+    url: https://www.sparkcapital.com/companies
+  - type: Portfolio
+    url: portfolio/spark-capital-portfolio.yml
+  - type: Team
+    url: https://www.sparkcapital.com/team
+  - type: Team
+    url: team/spark-capital-team.yml
+  - type: InvestmentThesis
+    url: https://www.sparkcapital.com/about
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/spark-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spark-capital
+  - type: Twitter
+    url: https://twitter.com/sparkcapital
+  - type: Features
+    data:
+      - "Stage: Seed through growth (multi-stage generalist)"
+      - "Sectors: Consumer internet, enterprise software, AI, gaming, crypto, fintech, infrastructure, hardware/semiconductors, life sciences, aerospace, future of work"
+      - "Geography: Primarily North America (offices in San Francisco, New York, Boston)"
+      - "AUM: ~US$12-15B (press-reported)"
+      - "Funds: 8 early-stage funds (latest $700M, 2024) and 5 growth funds (latest $1.4B, 2024)"
+      - "Founded: 2005"
+      - "HQ: Boston, Massachusetts, USA (with San Francisco and New York offices)"
+      - "Founders: Paul Conway, Santo Politi, Todd Dagres, Bijan Sabet"
+    sources:
+      - https://www.sparkcapital.com/
+      - https://en.wikipedia.org/wiki/Spark_Capital
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Spark Capital
+    url: https://www.sparkcapital.com/
