@@ -3,9 +3,9 @@ method: searched
 source: https://www.sparkcapital.com/companies
 summary:
   portfolio_total: 48
-  in_network: 23
-  api_providers: 16
-  missing: 25
+  in_network: 48
+  api_providers: 19
+  missing: 0
   stubs_created: 0
 companies:
 - name: Twitter/X
@@ -15,9 +15,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.sparkcapital.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: twitter-x
+  in_network: true
+  is_api_provider: true
+  slug: twitter-x
+  matched_by: name-slug
 - name: Slack
   url: https://slack.com
   description: Team messaging and collaboration platform.
@@ -58,9 +59,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oculus
+  slug: oculus
+  matched_by: domain
 - name: Cruise
   url: https://www.getcruise.com
   description: Autonomous vehicle technology company.
@@ -68,9 +70,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cruise
+  slug: cruise
+  matched_by: domain
 - name: Coinbase
   url: https://www.coinbase.com
   description: Cryptocurrency exchange and financial infrastructure.
@@ -122,9 +125,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sesame
+  slug: sesame
+  matched_by: name-slug
 - name: CTRL-labs
   url: https://www.ctrl-labs.com
   description: Neural interface wearable technology.
@@ -132,9 +136,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ctrl-labs
+  slug: ctrl-labs
+  matched_by: domain
 - name: Ramp
   url: https://www.ramp.com
   description: Corporate cards and spend management platform.
@@ -153,9 +158,10 @@ companies:
   stage: growth
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: niantic
+  slug: niantic
+  matched_by: domain
 - name: MatX
   url: https://matx.com
   description: AI accelerator chips for large language models.
@@ -163,9 +169,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: matx
+  slug: matx
+  matched_by: domain
 - name: Antithesis
   url: https://antithesis.com
   description: Autonomous software testing and reliability platform.
@@ -173,9 +180,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: antithesis
+  slug: antithesis
+  matched_by: domain
 - name: Lightmatter
   url: https://lightmatter.co
   description: Photonic computing hardware for AI workloads.
@@ -218,8 +226,8 @@ companies:
   source: https://www.sparkcapital.com/companies
   slug: parallel
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
 - name: Standard Intelligence
   url: https://si.inc
   description: AI research lab.
@@ -227,9 +235,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: standard-intelligence
+  slug: standard-intelligence
+  matched_by: domain
 - name: Snap
   url: https://www.snapchat.com
   description: Camera and social communication platform.
@@ -270,9 +279,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zeromatter
+  slug: zeromatter
+  matched_by: domain
 - name: Affirm
   url: https://www.affirm.com
   description: Buy-now-pay-later consumer financing platform.
@@ -324,9 +334,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stoke-space
+  slug: stoke-space
+  matched_by: domain
 - name: The Bot Company
   url: https://www.bot.co
   description: Consumer home robotics company.
@@ -334,9 +345,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-bot-company
+  slug: the-bot-company
+  matched_by: domain
 - name: Flock Safety
   url: https://www.flocksafety.com
   description: Public safety cameras and crime-detection technology.
@@ -344,9 +356,10 @@ companies:
   stage: growth
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: flock-safety
+  in_network: true
+  is_api_provider: true
+  slug: flock-safety
+  matched_by: domain
 - name: Crusoe
   url: https://www.crusoe.ai
   description: AI cloud and data center infrastructure powered by clean energy.
@@ -365,9 +378,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: edison-scientific
+  slug: edison-scientific
+  matched_by: domain
 - name: Benchling
   url: https://www.benchling.com
   description: R&D cloud software for life sciences.
@@ -386,9 +400,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wildtype
+  slug: wildtype
+  matched_by: domain
 - name: Lumafield
   url: https://www.lumafield.com
   description: Accessible industrial CT scanning for engineers.
@@ -396,9 +411,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lumafield
+  slug: lumafield
+  matched_by: domain
 - name: Enfabrica
   url: https://enfabrica.net
   description: Networking silicon for AI and accelerated computing.
@@ -406,9 +422,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enfabrica
+  slug: enfabrica
+  matched_by: domain
 - name: Base Power
   url: https://www.basepowercompany.com
   description: Residential battery and distributed energy utility.
@@ -416,9 +433,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: base-power
+  slug: base-power
+  matched_by: domain
 - name: Generalist AI
   url: https://generalistai.com
   description: Foundation models for robotics.
@@ -426,9 +444,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: generalist-ai
+  slug: generalistai
+  matched_by: domain
 - name: Handshake
   url: https://www.joinhandshake.com
   description: Early-career recruiting and talent network.
@@ -436,9 +455,10 @@ companies:
   stage: growth
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: handshake
+  slug: handshake
+  matched_by: domain
 - name: Adept
   url: https://www.adept.ai
   description: AI models for agents that take actions.
@@ -468,9 +488,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: formation-bio
+  slug: formation-bio
+  matched_by: name-slug
 - name: Inversion
   url: https://www.inversionspace.com
   description: Reentry vehicles and space logistics.
@@ -478,9 +499,10 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inversion
+  slug: inversion-space
+  matched_by: domain
 - name: Airspace Intelligence
   url: https://www.airspace-intelligence.com
   description: AI decision systems for aviation and logistics.
@@ -488,9 +510,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: airspace-intelligence
+  slug: airspace-intelligence
+  matched_by: domain
 - name: Mirror
   url: https://www.mirror.co
   description: Connected home fitness hardware.
@@ -498,9 +521,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mirror
+  slug: mirror
+  matched_by: name-slug
 - name: Latent
   url: https://latenthealth.com
   description: AI infrastructure for healthcare.
@@ -508,6 +532,7 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: latent
+  slug: latent-health
+  matched_by: domain
