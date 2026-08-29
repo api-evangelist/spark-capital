@@ -14,6 +14,17 @@ description: >-
   venture's largest recent markups. Spark rebranded in 2020 with design studio Pentagram around its
   distinctive dog-themed identity, and publishes a curated set of portfolio companies rather than a
   full list.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
