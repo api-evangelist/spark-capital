@@ -224,7 +224,7 @@ companies:
   stage: seed
   status: active
   source: https://www.sparkcapital.com/companies
-  slug: parallel
+  slug: parallel-ai
   in_network: true
   is_api_provider: true
   matched_by: domain
